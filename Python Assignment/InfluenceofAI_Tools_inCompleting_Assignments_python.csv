@@ -1,0 +1,154 @@
+Age,Gender,AI_tools,frequently_using_AI,overall_quality,problem - solving ,Time_management,Retain_Knowledge_apply,Motivation_to_deep_thinking,stress_and_anxiety,Apply_critical_thinking,problem_solving_approach,userfriendly,influneceoftime,opinion,confident_within,Education_level,Review Rating
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,4,4,4,3,4,4,5,Yes,Maybe,3,Undergraduate,4.1
+21 - 25,Female,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,3,4,2,4,5,4,4,No,Maybe,3,Postgraduate,4.5
+21 - 25,Female,Bing AI,Very Frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,4,Maybe,Maybe,3,Postgraduate,4.5
+21 - 25,Male,ChatGPT,Somewhat frequently,No impact on quality,To some extent,3,3,3,3,3,3,3,Maybe,Maybe,1,Other,3.5
+21 - 25,Male,Bing AI,Very Frequently,Significantly improves the quality,Great extent,5,5,5,5,5,5,5,Yes,Yes,1,Postgraduate,3.8
+21 - 25,Female,Bard,Very Frequently,Significantly improves the quality,To some extent,3,3,3,3,3,3,4,Yes,Yes,3,Postgraduate,4.9
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,3,4,3,5,4,4,3,No,No,1,Postgraduate,5
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Yes,Yes,1,Postgraduate,4.2
+21 - 25,Female,Bard,Very Frequently,Significantly improves the quality,Great extent,5,2,3,2,2,5,5,Yes,Yes,1,Postgraduate,2.6
+15 - 20,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,4,3,3,3,3,3,3,Yes,No,1,Postgraduate,4.8
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,3,4,3,4,3,4,3,Yes,Yes,1,Postgraduate,4.1
+21 - 25,Female,ChatGPT,Somewhat frequently,Significantly lowers the qulity,To some extent,3,4,4,3,4,4,3,Yes,No,3,Postgraduate,4.9
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,5,5,5,5,5,5,5,Yes,Yes,1,Other,4.5
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,4,5,4,5,4,5,4,Yes,Maybe,1,Postgraduate,4.7
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,5,1,1,3,1,5,4,Maybe,Maybe,3,Undergraduate,4.7
+21 - 25,Female,Bard,Very Frequently,Significantly improves the quality,Great extent,4,3,3,3,3,3,4,Yes,Yes,3,Postgraduate,2.8
+21 - 25,Male,ChatGPT,Somewhat frequently,No impact on quality,Limited extent,5,3,3,2,2,3,3,Yes,Maybe,3,Undergraduate,4.1
+21 - 25,Female,Bing AI,Rarely,Slightly improves the quality,To some extent,3,4,4,3,4,4,4,Maybe,Yes,3,Postgraduate,4.7
+21 - 25,Male,Bard,Somewhat frequently,Significantly improves the quality,To some extent,4,2,2,3,3,3,3,Yes,Yes,1,Postgraduate,4.6
+15 - 20,Female,Bard,Very Frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Postgraduate,3.3
+21 - 25,Male,Bard,Very Frequently,Slightly improves the quality,To some extent,2,3,3,2,4,3,3,Yes,Yes,1,Postgraduate,2.8
+21 - 25,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,Limited extent,3,2,2,3,4,4,4,Maybe,Yes,3,Other,4.1
+15 - 20,Female,ChatGPT,Very Frequently,Significantly improves the quality,To some extent,5,5,5,5,4,5,5,Yes,Yes,2,Undergraduate,3.2
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,To some extent,3,3,2,4,3,2,3,Yes,Maybe,1,Postgraduate,4.4
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,4,4,5,5,5,5,4,Yes,Yes,1,Postgraduate,2.9
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,5,5,5,5,5,5,5,No,No,2,Undergraduate,3.6
+21 - 25,Male,Bard,Somewhat frequently,Significantly improves the quality,Great extent,5,4,3,5,5,5,5,Yes,Yes,1,Postgraduate,4.6
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,No,3,Postgraduate,5
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,3,3,2,3,3,3,4,Yes,Maybe,3,Postgraduate,4.4
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,5,3,2,4,2,3,3,Yes,Yes,1,Postgraduate,4.1
+15 - 20,Male,Bard,Very Frequently,Slightly improves the quality,Great extent,4,3,4,4,3,4,3,Maybe,Yes,1,Postgraduate,4.7
+21 - 25,Male,Bard,Rarely,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Yes,2,Postgraduate,4.7
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,3,4,3,5,4,5,4,Yes,Yes,1,Engineering,4.9
+21 - 25,Male,Bard,Rarely,Slightly improves the quality,To some extent,5,3,4,4,4,4,4,Yes,Yes,2,Postgraduate,4.3
+15 - 20,Male,ChatGPT,Rarely,No impact on quality,Not at all,4,4,5,5,5,5,5,Maybe,Yes,2,Engineering,4.6
+15 - 20,Female,ChatGPT,Never,Significantly improves the quality,To some extent,4,3,3,4,4,5,2,Yes,Yes,1,Engineering,4
+21 - 25,Female,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,4,4,4,4,4,4,4,Yes,Yes,1,PhD,4.6
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,2,2,3,4,3,4,1,No,Yes,1,Engineering,2.8
+15 - 20,Male,Bing AI,Rarely,Significantly improves the quality,To some extent,4,5,5,4,4,4,4,Yes,No,1,Engineering,3.7
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,Limited extent,2,2,2,2,2,2,2,Maybe,Maybe,2,Postgraduate,4.2
+15 - 20,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,5,4,5,4,5,4,5,Yes,Yes,1,Engineering,4.6
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,To some extent,5,5,4,1,2,5,5,Maybe,Yes,1,Postgraduate,4.5
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,3,4,3,3,4,4,4,Yes,Yes,1,Undergraduate,4.1
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,4,3,3,3,4,4,Maybe,Yes,3,Postgraduate,3.7
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,To some extent,3,4,4,4,4,4,4,Yes,Yes,1,Undergraduate,4.6
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,Limited extent,5,1,1,3,1,1,1,Maybe,Maybe,3,Undergraduate,2.9
+21 - 25,Female,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Postgraduate,2.9
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,To some extent,5,1,1,1,3,3,3,Yes,Yes,1,Postgraduate,4.5
+15 - 20,Male,ChatGPT,Rarely,No impact on quality,Limited extent,3,1,1,4,1,4,3,Maybe,No,3,Engineering,2.7
+21 - 25,Female,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,4,4,4,5,5,4,4,Yes,Yes,1,Undergraduate,4.6
+15 - 20,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,Great extent,4,5,5,5,5,5,4,Maybe,Yes,1,Engineering,3.7
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Not at all,3,3,1,3,1,1,3,Yes,Maybe,3,Postgraduate,4.7
+21 - 25,Male,Bard,Rarely,Slightly improves the quality,Limited extent,4,2,3,2,3,4,4,Yes,Yes,3,Postgraduate,2.6
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,Limited extent,5,3,2,3,3,4,5,Yes,Maybe,3,Postgraduate,3.9
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,Not at all,5,2,1,4,2,3,5,Yes,Yes,1,Postgraduate,4.2
+21 - 25,Male,ChatGPT,Very Frequently,Slightly improves the quality,Great extent,3,2,4,4,4,3,3,Yes,Yes,1,Postgraduate,3
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,Great extent,3,3,3,4,2,2,5,No,No,2,Postgraduate,4.7
+21 - 25,Female,Bard,Rarely,No impact on quality,Limited extent,1,2,3,4,5,4,3,Yes,No,3,Undergraduate,4.4
+21 - 25,Male,ChatGPT,Somewhat frequently,No impact on quality,To some extent,3,4,4,1,3,3,4,Yes,Yes,1,Postgraduate,4.2
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,4,4,4,4,3,4,4,Yes,Yes,1,Postgraduate,4.6
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,5,3,4,2,4,4,4,Yes,Yes,3,Postgraduate,4
+21 - 25,Male,ChatGPT,Very Frequently,Slightly improves the quality,Limited extent,1,2,3,5,5,5,5,Maybe,Maybe,1,Postgraduate,4.7
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,Limited extent,4,4,3,4,3,3,4,No,No,2,Postgraduate,3.8
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,Great extent,5,5,5,5,5,5,5,Yes,Yes,1,Postgraduate,2.7
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,Great extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Postgraduate,4.8
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,4,2,3,3,2,4,4,Yes,Maybe,1,Postgraduate,4.8
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,4,3,4,3,3,3,4,Yes,Yes,1,Postgraduate,4.7
+21 - 25,Female,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,5,4,3,5,2,2,5,Yes,Yes,1,Postgraduate,4.4
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,4,3,3,3,3,3,3,Yes,Yes,1,Postgraduate,3.9
+21 - 25,Female,Bard,Very Frequently,Slightly improves the quality,To some extent,4,1,1,4,3,4,4,Yes,Maybe,1,Undergraduate,4.4
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Yes,3,Postgraduate,4.2
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,4,4,5,4,5,4,5,Maybe,Maybe,3,Postgraduate,2.9
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,3,5,2,4,1,4,5,Yes,No,1,Postgraduate,2.9
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,To some extent,4,4,3,4,3,4,5,Yes,Yes,1,Postgraduate,2.7
+15 - 20,Male,ChatGPT,Very Frequently,Significantly improves the quality,To some extent,4,2,2,5,2,4,5,Yes,Yes,1,Postgraduate,4.5
+21 - 25,Female,Bing AI,Very Frequently,Significantly improves the quality,Limited extent,3,3,3,3,3,5,3,No,Yes,2,Postgraduate,2.7
+21 - 25,Female,Bing AI,Rarely,No impact on quality,Limited extent,2,3,1,5,2,2,2,Maybe,No,3,Postgraduate,4.2
+21 - 25,Male,Bing AI,Somewhat frequently,Slightly improves the quality,Limited extent,3,3,3,3,3,3,4,Yes,Yes,3,Engineering,3.3
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,Great extent,4,3,4,4,3,4,4,Yes,Yes,1,Postgraduate,4.7
+21 - 25,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,5,4,4,4,4,4,4,Yes,No,1,Postgraduate,2.6
+15 - 20,Male,ChatGPT,Very Frequently,Slightly improves the quality,Great extent,4,4,4,4,4,4,4,Yes,Yes,1,Postgraduate,3.3
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,Limited extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Postgraduate,2.6
+21 - 25,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,4,4,5,5,3,4,4,Yes,Maybe,3,Postgraduate,4
+21 - 25,Female,Bing AI,Rarely,Slightly improves the quality,Limited extent,3,3,3,3,3,4,3,Yes,Maybe,1,Postgraduate,4.1
+21 - 25,Female,Bing AI,Rarely,Significantly improves the quality,Great extent,3,4,4,4,4,4,4,Yes,Yes,1,Postgraduate,4.4
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,Limited extent,3,3,4,3,3,4,4,Yes,Maybe,1,Postgraduate,4.5
+21 - 25,Female,Bing AI,Rarely,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Yes,Maybe,1,Postgraduate,3.7
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,4,5,5,5,5,5,4,Maybe,Maybe,3,Postgraduate,3.7
+15 - 20,Male,Bing AI,Rarely,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Yes,Yes,1,Postgraduate,3.5
+21 - 25,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,Limited extent,1,4,4,3,4,4,3,Yes,Yes,1,Postgraduate,3.6
+15 - 20,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,5,3,4,3,3,3,4,Yes,Maybe,3,Engineering,2.9
+21 - 25,Male,Bard,Somewhat frequently,Significantly improves the quality,Limited extent,4,3,2,3,4,3,4,Yes,Yes,1,Undergraduate,4.6
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Undergraduate,4.4
+25 - 30,Female,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,2,2,3,2,3,3,4,No,Yes,1,PhD,4.5
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Postgraduate,4.6
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,4,4,4,4,3,5,4,No,Yes,2,Postgraduate,3.8
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,Great extent,4,4,3,4,2,4,3,Yes,Maybe,1,Postgraduate,3.6
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,Great extent,5,4,4,5,3,5,5,Yes,Yes,1,Undergraduate,4.8
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,4,4,5,5,4,3,5,Yes,Yes,3,Engineering,2.6
+15 - 20,Male,ChatGPT,Rarely,Significantly improves the quality,To some extent,5,5,5,5,5,5,5,Yes,Yes,1,Engineering,3.7
+21 - 25,Male,Bard,Somewhat frequently,Significantly improves the quality,To some extent,3,4,4,1,3,3,4,Yes,Yes,3,Postgraduate,2.7
+21 - 25,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,3,2,4,2,3,3,4,Yes,Maybe,1,Undergraduate,4.6
+21 - 25,Female,ChatGPT,Rarely,Significantly improves the quality,Great extent,4,4,4,4,4,4,5,Yes,Yes,1,Postgraduate,4.8
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,4,4,4,4,4,5,4,Yes,Maybe,2,Engineering,4
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,Not at all,4,4,2,4,3,3,3,Yes,Yes,3,Postgraduate,4.4
+21 - 25,Male,ChatGPT,Very Frequently,Slightly improves the quality,To some extent,5,3,3,3,3,3,3,Yes,Yes,1,Postgraduate,3.6
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,4,4,4,5,2,2,5,Yes,Yes,1,Postgraduate,3.7
+15 - 20,Female,Bard,Somewhat frequently,Slightly improves the quality,Limited extent,1,1,3,3,2,5,3,Yes,No,1,Undergraduate,3.1
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,To some extent,4,3,2,2,2,3,3,Yes,Maybe,3,Engineering,3.4
+21 - 25,Female,ChatGPT,Somewhat frequently,No impact on quality,Limited extent,3,3,5,4,3,5,4,Yes,Maybe,3,Postgraduate,2.6
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,3,3,4,3,3,4,3,Yes,Yes,1,Postgraduate,4
+21 - 25,Male,Bard,Somewhat frequently,Significantly improves the quality,Great extent,4,4,4,3,4,4,4,Yes,Yes,1,Other,5
+30 - 35,Female,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,3,3,2,4,4,4,Maybe,Yes,3,Other,4.3
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,2,4,2,2,2,4,Maybe,No,3,Postgraduate,3.1
+21 - 25,Male,Bard,Somewhat frequently,Significantly improves the quality,To some extent,4,2,1,5,5,2,3,Yes,Maybe,1,Postgraduate,3.7
+15 - 20,Male,Bard,Somewhat frequently,Slightly improves the quality,Great extent,1,2,3,4,5,1,2,Yes,Maybe,2,Other,3.8
+15 - 20,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,To some extent,3,1,1,4,2,3,3,Yes,Yes,2,Engineering,3.4
+21 - 25,Male,ChatGPT,Very Frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,3,Maybe,Maybe,3,Postgraduate,4.6
+21 - 25,Male,Bing AI,Very Frequently,Significantly improves the quality,Great extent,4,4,4,4,3,4,4,Yes,Yes,1,Postgraduate,4.8
+15 - 20,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,2,2,3,4,4,3,3,No,Yes,1,Postgraduate,4.3
+21 - 25,Male,Bard,Very Frequently,Slightly improves the quality,To some extent,4,3,4,4,3,4,5,No,Yes,2,Postgraduate,4
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,Great extent,4,4,4,4,4,4,4,Yes,Yes,1,Postgraduate,4.2
+21 - 25,Male,ChatGPT,Somewhat frequently,Slightly improves the quality,Limited extent,3,4,3,2,3,4,3,Yes,Yes,2,Postgraduate,4.8
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,4,2,4,3,4,4,Yes,Yes,3,Postgraduate,3.1
+21 - 25,Female,ChatGPT,Very Frequently,Slightly improves the quality,To some extent,3,3,4,2,4,4,4,Yes,Yes,1,Postgraduate,4.1
+21 - 25,Male,ChatGPT,Very Frequently,Slightly improves the quality,Great extent,4,3,3,5,3,5,4,Yes,Yes,1,Postgraduate,3.6
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,4,3,3,5,3,4,4,Yes,Yes,1,Postgraduate,3.9
+21 - 25,Male,Bard,Rarely,Slightly improves the quality,To some extent,5,3,3,3,3,3,3,Maybe,Yes,3,Postgraduate,4.8
+21 - 25,Female,Bard,Somewhat frequently,Slightly improves the quality,To some extent,5,5,4,5,3,3,4,Yes,Maybe,3,Postgraduate,4.7
+21 - 25,Female,ChatGPT,Rarely,Slightly improves the quality,Limited extent,4,2,2,2,2,2,3,Yes,Yes,2,Postgraduate,4.2
+21 - 25,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,3,1,4,5,3,3,4,Maybe,Maybe,3,Postgraduate,3.7
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,Great extent,4,5,4,4,4,4,4,Yes,Yes,1,Other,3.9
+15 - 20,Female,ChatGPT,Somewhat frequently,Slightly improves the quality,Great extent,5,3,2,3,4,2,3,Maybe,Yes,3,Postgraduate,4.7
+15 - 20,Female,Bing AI,Rarely,No impact on quality,To some extent,2,2,2,2,2,2,2,Yes,No,2,Postgraduate,2.5
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,3,4,4,4,4,4,4,Maybe,Maybe,3,Engineering,4.9
+21 - 25,Female,Bard,Somewhat frequently,Significantly lowers the qulity,Limited extent,4,5,2,1,4,3,3,Yes,Yes,2,Postgraduate,4.1
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,4,2,3,3,3,4,4,Yes,Yes,1,Undergraduate,3.3
+21 - 25,Female,ChatGPT,Very Frequently,Slightly improves the quality,Limited extent,3,3,4,4,4,2,4,Maybe,Yes,3,Postgraduate,4.7
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,To some extent,3,4,4,1,3,5,5,Yes,Yes,1,Postgraduate,4.4
+15 - 20,Male,Bard,Somewhat frequently,Slightly improves the quality,To some extent,4,3,3,2,4,4,5,Maybe,Maybe,2,Undergraduate,3.8
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,4,4,4,3,4,4,4,Yes,Yes,1,Postgraduate,3.9
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,Great extent,5,3,3,3,3,3,3,Yes,Yes,1,Postgraduate,4.9
+21 - 25,Male,ChatGPT,Very Frequently,Significantly improves the quality,Great extent,5,5,5,5,5,5,5,Yes,Maybe,3,Postgraduate,4
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,3,3,3,3,4,4,4,Yes,Maybe,3,Postgraduate,4.9
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,Great extent,5,3,3,3,3,3,3,Yes,Yes,1,Undergraduate,4.2
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,Great extent,5,4,3,4,4,4,4,Maybe,Yes,1,Postgraduate,4.5
+21 - 25,Male,ChatGPT,Rarely,Slightly improves the quality,To some extent,2,5,3,5,3,3,3,Maybe,Maybe,3,Postgraduate,4
+21 - 25,Female,ChatGPT,Very Frequently,Slightly improves the quality,Limited extent,3,1,2,3,3,4,5,Yes,Yes,1,Postgraduate,3.5
+21 - 25,Female,Bard,Very Frequently,Significantly improves the quality,Not at all,4,3,4,5,2,1,4,No,Maybe,1,Postgraduate,4.6
+15 - 20,Female,ChatGPT,Somewhat frequently,Significantly improves the quality,Great extent,3,3,3,3,3,2,1,Yes,Yes,2,Postgraduate,3.2
+21 - 25,Male,ChatGPT,Somewhat frequently,Significantly improves the quality,To some extent,5,4,4,4,4,4,4,Maybe,Maybe,3,Engineering,4.9
+21 - 25,Male,ChatGPT,Very Frequently,Slightly improves the quality,To some extent,3,3,3,3,3,3,2,No,No,1,Postgraduate,4.5
+21 - 25,Male,Bard,Very Frequently,Significantly improves the quality,Great extent,5,5,5,5,5,5,5,No,No,3,Postgraduate,4.3
